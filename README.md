@@ -102,11 +102,6 @@ incident-response-playbook/
 - **IOC Tracking Sheet** — structured IOC documentation
 - **IR Automation Scripts** — bash scripts for rapid triage
 
----
-
-## 🔗 Related Projects
-
-- [Wazuh SOC Monitoring Lab](https://github.com/YOUR_USERNAME/wazuh-soc-monitoring-lab)
 
 ---
 
